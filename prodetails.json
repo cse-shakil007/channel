@@ -19,7 +19,7 @@
                 },
                 {
                     "id": 1,
-                    "file": 1,
+                    "file": 0,
                     "country": "United States",
                     "city": "Los Angeles",
                     "image": "United States",
