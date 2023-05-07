@@ -2,7 +2,8 @@
     "data": [
         {
             "id": 0,
-            "country": "United States",
+            "vip_flag_image": "United States",
+            "free_flag_image": "United States",
             "vip": [
                 {
                     "id": 0,
