@@ -60,6 +60,67 @@
                     "updated_at": "2022-06-05T00:55:07.215652Z"
                 }
             ]
+        },
+        {
+            "id": 0,
+            "flag_image_vip": "United States",
+            "flag_image_free": "United States",
+            "vip": [
+                {
+                    "id": 0,
+                    "file": 0,
+                    "country": "United States",
+                    "city": "Chicago",
+                    "image": "United States",
+                    "username": "vpn",
+                    "password": "vpn",
+                    "speed": "300",
+                    "active": "True",
+                    "created_at": "2022-06-05T00:48:29.807656Z",
+                    "updated_at": "2022-06-05T00:48:29.807691Z"
+                },
+                {
+                    "id": 1,
+                    "file": 0,
+                    "country": "United States",
+                    "city": "Los Angeles",
+                    "image": "United States",
+                    "username": "vpn",
+                    "password": "vpn",
+                    "speed": "320",
+                    "active": "True",
+                    "created_at": "2022-06-05T00:49:24.730183Z",
+                    "updated_at": "2022-06-05T00:49:24.730214Z"
+                }
+            ],
+            "free": [
+                {
+                    "id": 0,
+                    "file": 0,
+                    "country": "United States",
+                    "city": "Chicago",
+                    "image": "United States",
+                    "username": "vpn",
+                    "password": "vpn",
+                    "speed": "300",
+                    "active": "True",
+                    "created_at": "2022-06-05T00:54:07.878819Z",
+                    "updated_at": "2022-06-05T00:54:17.997271Z"
+                },
+                {
+                    "id": 1,
+                    "file": 0,
+                    "country": "United States",
+                    "city": "Los Angeles",
+                    "image": "United States",
+                    "username": "vpn",
+                    "password": "vpn",
+                    "speed": "310",
+                    "active": "True",
+                    "created_at": "2022-06-05T00:55:07.215604Z",
+                    "updated_at": "2022-06-05T00:55:07.215652Z"
+                }
+            ]
         }
     ]
 }
